@@ -1,6 +1,6 @@
 # About Me
 
-Hello! My name is Samuel Crawford (he/him), and I am awaiting graduation from the Software Engineering program at McMaster University. I am the recipient of a Schulich Leader Scholarship for community leadership and academic excellence, and strive to put my skills to good use wherever I may find myself. 
+Hello! My name is Samuel Crawford (he/him), and I am awaiting graduation from the Software Engineering program at McMaster University. I am the recipient of a Schulich Leader Scholarship for community leadership and academic excellence, and I strive to put my skills to good use wherever I may find myself. 
 
 ## Skills
 - My areas of expertise are object-oriented design, functional programming, and software testing
