@@ -1,6 +1,6 @@
 # About Me
 
-Hello! My name is Samuel Crawford (he/him); I have a BEng in Software Engineering from McMaster University, and I am back at McMaster for my MASc. I am the recipient of a Schulich Leader Scholarship for community leadership and academic excellence, and I strive to put my skills to good use wherever I find myself. 
+Hello! My name is Samuel Crawford (he/him); I have a B.Eng. in Software Engineering from McMaster University, and I am back at McMaster for my M.A.Sc., working on [Drasil](https://github.com/JacquesCarette/Drasil). I am the recipient of a Schulich Leader Scholarship for community leadership and academic excellence, and I strive to put my skills to good use wherever I find myself. 
 
 ## Skills
 - My areas of expertise are object-oriented design, functional programming, and software testing
