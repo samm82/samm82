@@ -4,9 +4,9 @@ Hello! My name is Samuel Crawford; I have a B.Eng. in Software Engineering from 
 
 ## Skills
 - My areas of expertise are object-oriented design, functional programming, and software testing
-- My main languages are Python, Dart, Java, LaTeX, and Haskell
-- I am comfortable with common tools and frameworks like Git, Flutter, pytest, Make, and SQL
-- I have experience with MATLAB, Bash, C, and C++
+- My main languages are Python, Haskell, LaTeX, Dart, and Java
+- I am comfortable with common tools and frameworks like Git, Flutter, pytest, and Make
+- I have experience with MATLAB, Bash, C, C++, and SQL
 
 <!--
 **samm82/samm82** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
