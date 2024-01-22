@@ -8,6 +8,9 @@ Hello! My name is Samuel Crawford; I have a B.Eng. in Software Engineering from 
 - I am comfortable with common tools and frameworks like Git, Flutter, pytest, and Make
 - I have experience with MATLAB, Bash, C, C++, and SQL
 
+[![Sam's GitHub stats](https://github-readme-stats-sam-crawfords-projects.vercel.app/api?username=samm82&hide=stars&show=reviews,prs_merged_percentage&show_icons=true&theme=transparent&hide_border=true&custom_title=My%20GitHub%20Stats)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <!--
 **samm82/samm82** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
