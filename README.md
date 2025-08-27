@@ -10,7 +10,10 @@ Hello! My name is Samuel Crawford; I have a B.Eng. in Software Engineering from 
 
 [![Sam's top langs](https://github-readme-stats-sam-crawfords-projects.vercel.app/api/top-langs/?username=samm82&layout=compact&theme=transparent&hide=javascript,cmake&hide_border=true&custom_title=My%20Top%20Languages&langs_count=8)](https://github.com/anuraghazra/github-readme-stats) [![Sam's GitHub stats](https://github-readme-stats-sam-crawfords-projects.vercel.app/api?username=samm82&hide=stars&show=reviews,prs_merged_percentage&show_icons=true&theme=transparent&hide_border=true&custom_title=My%20GitHub%20Stats)](https://github.com/anuraghazra/github-readme-stats)
 
+<!--
+Commented out until it works again -_-
 [![Sam's trophies](https://github-profile-trophy.vercel.app/?username=samm82&rank=-C&theme=gitdimmed&margin-w=5&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+-->
 
 <!--
 **samm82/samm82** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
