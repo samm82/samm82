@@ -12,8 +12,8 @@ Hello! My name is Samuel Crawford; I have a B.Eng. in Software Engineering from 
 
 <!--
 Commented out until it works again -_-
-[![Sam's trophies](https://github-profile-trophy.vercel.app/?username=samm82&rank=-C&theme=gitdimmed&margin-w=5&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 -->
+[![Sam's trophies](https://github-profile-trophy.vercel.app/?username=samm82&rank=-C&theme=gitdimmed&margin-w=5&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!--
 **samm82/samm82** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
