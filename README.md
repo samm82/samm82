@@ -1,6 +1,6 @@
 # About Me
 
-Hello! My name is Samuel Crawford; I have a B.Eng. in Software Engineering from McMaster University, and I am back at McMaster for my M.A.Sc., working adjacently on [Drasil](https://github.com/JacquesCarette/Drasil). I am the recipient of a Schulich Leader Scholarship for community leadership and academic excellence, and I strive to put my skills to good use wherever I find myself. 
+Hello! My name is Samuel Crawford; I have an M.A.Sc. in Software Engineering from McMaster University and wrote [my thesis](https://github.com/samm82/TestingTesting) about the flaws in the software testing literature. I am the recipient of a Schulich Leader Scholarship for community leadership and academic excellence, and I strive to put my skills to good use wherever I find myself. 
 
 ## Skills
 - My areas of expertise are object-oriented design, functional programming, and software testing
