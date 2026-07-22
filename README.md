@@ -1,6 +1,6 @@
 # About Me
 
-Hello! My name is Samuel Crawford; I have an M.A.Sc. in Software Engineering from McMaster University and wrote [my thesis](https://github.com/samm82/TestingTesting) about the flaws in the software testing literature. I am the recipient of a Schulich Leader Scholarship for community leadership and academic excellence, and I strive to put my skills to good use wherever I find myself. 
+Hello! My name is Samuel Crawford; I have an MASc in Software Engineering from McMaster University and wrote [my thesis](https://github.com/samm82/TestingTesting) about the flaws in the software testing literature. I am the recipient of a Schulich Leader Scholarship for community leadership and academic excellence, and I strive to put my skills to good use wherever I find myself. 
 
 ## Skills
 - My areas of expertise are software testing, object-oriented design, and functional programming
